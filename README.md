@@ -1,1 +1,1 @@
-# terminal-colors
+# terminal-utils
